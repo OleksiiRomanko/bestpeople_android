@@ -1,0 +1,50 @@
+buildscript {
+    repositories {
+        maven { url 'https://plugins.gradle.org/m2/'}
+    }
+    dependencies {
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.11.0, 0.99.99]'
+    }
+}
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+
+repositories {
+    maven { url 'https://maven.google.com' }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.yeniuygulama"
+        // TODO: Please update the OneSignal ID below to yours!
+        manifestPlaceholders = [onesignal_app_id: '1a5e09b3-63d5-4554-8536-e3b3d5268380',
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: 'REMOTE']
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+
+    implementation 'com.android.support:appcompat-v7:27.+'
+    implementation 'com.android.support:design:27.+'
+    implementation 'com.android.support:support-vector-drawable:27.+'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.mcxiaoke.volley:library:1.0.19'
+    implementation 'com.onesignal:OneSignal:[3.9.2, 3.99.99)'
+
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+}

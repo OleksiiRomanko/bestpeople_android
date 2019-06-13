@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">Noticias</string>
+    <string name="profil">Mi Perfil</string>
+    <string name="mesajlar">Mensajes</string>
+    <string name="sayfa">Páginas</string>
+    <string name="grup">Grupos</string>
+    <string name="foto">Fotos</string>
+    <string name="oyun">Juegos</string>
+    <string name="kayitlipost">Posts Guardados</string>
+    <string name="urun">Mis productos</string>
+    <string name="market">Mercado</string>
+    <string name="ayarlar">Configuración</string>
+    <string name="app_ayarlar">Configuración de la aplicación</string>
+    <string name="cikis">Cerrar Sesión</string>
+
+    <string name="home">Casa</string>
+    <string name="album">Álbumes</string>
+    <string name="blog">Blog</string>
+    <string name="event">Eventos</string>
+
+    <string name="cikisonay">Seguro que quieres salir?</string>
+    <string name="evet">Sí</string>
+    <string name="hayir">No</string>
+    <string name="yenile">Refrescar</string>
+    <string name="noconnection">Sin conexión</string>
+    <string name="cancel">Cancelar</string>
+    <string name="okey">Bueno</string>
+    <string name="languages">Idiomas</string>
+
+
+    <string name="not_ayarlar">Configuración de las notificaciones</string>
+    <string name="notification">Notificación</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="share">Compartir</string>
+
+    <string name="photo_chooser">Selector de fotos</string>
+    <string name="download">Descargando archivo</string>
+
+</resources>

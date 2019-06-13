@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">Новостная лента</string>
+    <string name="profil">Мой профиль</string>
+    <string name="mesajlar">Переписка</string>
+    <string name="sayfa">Страницы</string>
+    <string name="grup">Группы</string>
+    <string name="foto">Фото</string>
+    <string name="oyun">Игры</string>
+    <string name="kayitlipost">Сохраненные заметки</string>
+    <string name="urun">Мои продукты</string>
+    <string name="market">рынок</string>
+    <string name="ayarlar">Настройки</string>
+    <string name="app_ayarlar">Настройки приложения</string>
+    <string name="cikis">Выйти</string>
+
+    <string name="home">Главная</string>
+    <string name="album">Альбомы</string>
+    <string name="blog">Блог</string>
+    <string name="event">Мероприятия</string>
+
+    <string name="cikisonay">Вы уверены, что хотите выйти?</string>
+    <string name="evet">да</string>
+    <string name="hayir">нет</string>
+    <string name="yenile">обновление</string>
+    <string name="noconnection">Нет соединения</string>
+    <string name="cancel">Отмена</string>
+    <string name="okey">исправный</string>
+    <string name="languages">Языки</string>
+
+
+    <string name="not_ayarlar">Настройки уведомлений</string>
+    <string name="notification">уведомление</string>
+    <string name="vibrate">вибрировать</string>
+    <string name="share">Поделиться</string>
+
+    <string name="photo_chooser">Фотовыбор</string>
+    <string name="download">Загрузка файла</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/newsid"
+            android:icon="@drawable/newsicon"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/profileid"
+            android:icon="@drawable/profileicon"
+            android:title="@string/profil" />
+        <item
+            android:id="@+id/messageid"
+            android:icon="@drawable/messageicon"
+            android:title="@string/mesajlar" />
+        <item
+            android:id="@+id/pageid"
+            android:icon="@drawable/pageicon"
+            android:title="@string/sayfa" />
+        <item
+            android:id="@+id/groupid"
+            android:icon="@drawable/groupicon"
+            android:title="@string/grup" />
+        <item
+            android:id="@+id/photoid"
+            android:icon="@drawable/photoicon"
+            android:title="@string/album" />
+        <item
+            android:id="@+id/gameid"
+            android:icon="@drawable/gameicon"
+            android:title="@string/oyun" />
+
+        <item
+            android:id="@+id/savedpostsid"
+            android:icon="@drawable/savedpostsicon"
+            android:title="@string/kayitlipost" />
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/shareid"
+            android:icon="@drawable/shareicon"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/langid"
+            android:icon="@drawable/languageicon"
+            android:title="@string/languages" />
+        <item
+            android:id="@+id/settingsid"
+            android:icon="@drawable/settingsicon"
+            android:title="@string/ayarlar" />
+        <item
+            android:id="@+id/nav_switch"
+            android:icon="@drawable/notificationicon"
+            android:title="@string/notification"
+            app:actionLayout="@layout/layout_switch" />
+        <item
+            android:id="@+id/exitid"
+            android:icon="@drawable/exiticon"
+            android:title="@string/cikis" />
+    </group>
+</menu>

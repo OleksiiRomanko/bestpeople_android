@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">Haber Akışı</string>
+    <string name="profil">Profilim</string>
+    <string name="mesajlar">Mesajlar</string>
+    <string name="sayfa">Sayfalar</string>
+    <string name="grup">Gruplar</string>
+    <string name="foto">Fotoğraflar</string>
+    <string name="oyun">Oyunlar</string>
+    <string name="kayitlipost">Kayıtlı Gönderiler</string>
+    <string name="urun">Ürünlerim</string>
+    <string name="market">Market</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="app_ayarlar">Uygulama Ayarları</string>
+    <string name="cikis">Çıkış</string>
+
+    <string name="home">Ana Sayfa</string>
+    <string name="album">Albümler</string>
+    <string name="blog">Blog</string>
+    <string name="event">Etkinlikler</string>
+
+    <string name="cikisonay">Çıkmak istediğine emin misin?</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="yenile">Yenile</string>
+    <string name="noconnection">Bağlantı Yok</string>
+    <string name="cancel">İptal</string>
+    <string name="okey">Tamam</string>
+    <string name="languages">Diller</string>
+
+    <string name="not_ayarlar">Bildirim Ayarları</string>
+    <string name="notification">Bildirim</string>
+    <string name="vibrate">Titreşim</string>
+    <string name="share">Paylaş</string>
+
+    <string name="photo_chooser">Fotoğraf Seçici</string>
+    <string name="download">Dosya İndiriliyor</string>
+
+</resources>

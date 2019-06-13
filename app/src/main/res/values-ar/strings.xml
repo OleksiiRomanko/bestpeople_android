@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">موجز الأخبار</string>
+    <string name="profil">صفحتي الشخصية</string>
+    <string name="mesajlar">الرسائل</string>
+    <string name="sayfa">الصفحات</string>
+    <string name="grup">المجموعات</string>
+    <string name="foto">الألبومات</string>
+    <string name="oyun">الألعاب</string>
+    <string name="kayitlipost">المنشورات المحفوظة</string>
+    <string name="urun">منتجاتي</string>
+    <string name="market">السوق</string>
+    <string name="ayarlar">الإعدادات</string>
+    <string name="app_ayarlar">الإعدادات التطبيق</string>
+    <string name="cikis">تسجيل الخروج</string>
+
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="album">الألبومات</string>
+    <string name="blog">مدونة</string>
+    <string name="event">أحداث</string>
+
+    <string name="cikisonay">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="evet">نعم فعلا</string>
+    <string name="hayir">لا</string>
+    <string name="yenile">تحديث</string>
+    <string name="noconnection">لا يوجد اتصال</string>
+    <string name="cancel">إلغاء</string>
+    <string name="okey">حسنا</string>
+    <string name="languages">اللغات</string>
+
+
+    <string name="not_ayarlar">إعدادات الإشعار</string>
+    <string name="notification">إعلام</string>
+    <string name="vibrate">تذبذب</string>
+    <string name="share">سهم</string>
+
+    <string name="photo_chooser">منتقي الصور</string>
+    <string name="download">تنزيل الملف</string>
+
+</resources>

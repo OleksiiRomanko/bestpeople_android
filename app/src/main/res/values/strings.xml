@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">News Feed</string>
+    <string name="profil">My Profile</string>
+    <string name="mesajlar">Messages</string>
+    <string name="sayfa">Pages</string>
+    <string name="grup">Groups</string>
+    <string name="foto">Albums</string>
+    <string name="oyun">Games</string>
+    <string name="kayitlipost">Saved Posts</string>
+    <string name="urun">My Products</string>
+    <string name="market">Market</string>
+    <string name="ayarlar">Settings</string>
+    <string name="app_ayarlar">Application Settings</string>
+    <string name="cikis">Log Out</string>
+
+    <string name="home">Home</string>
+    <string name="album">Albums</string>
+    <string name="blog">Blog</string>
+    <string name="event">Events</string>
+
+    <string name="cikisonay">Are you sure you want to exit?</string>
+    <string name="evet">Yes</string>
+    <string name="hayir">No</string>
+    <string name="yenile">Refresh</string>
+    <string name="noconnection">No Connection</string>
+    <string name="cancel">Cancel</string>
+    <string name="okey">Okey</string>
+    <string name="languages">Languages</string>
+
+
+    <string name="not_ayarlar">Notification Settings</string>
+    <string name="notification">Notification</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="share">Share</string>
+
+    <string name="photo_chooser">Photo Chooser</string>
+    <string name="download">Downloading File</string>
+
+</resources>

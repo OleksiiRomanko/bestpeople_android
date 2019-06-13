@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Wowonder</string>
+    <string name="FCM_PREF">fcm_pref</string>
+    <string name="FCM_TOKEN">fcm_token</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="haberakisi">Nyhedsstrøm</string>
+    <string name="profil">Mijn Profiel</string>
+    <string name="mesajlar">Berichten</string>
+    <string name="sayfa">Pagina\'s</string>
+    <string name="grup">Groepen</string>
+    <string name="foto">Billeder</string>
+    <string name="oyun">Spelen</string>
+    <string name="kayitlipost">Opgeslagen Berichten</string>
+    <string name="urun">Mine Produkter</string>
+    <string name="market">Markt</string>
+    <string name="ayarlar">Instellingen</string>
+    <string name="app_ayarlar">Applikation Instellingen</string>
+    <string name="cikis">Uitloggen</string>
+
+    <string name="home">Hjem</string>
+    <string name="album">Albums</string>
+    <string name="blog">Blog</string>
+    <string name="event">Evenementen</string>
+
+    <string name="cikisonay">Er du sikker på at du vil afslutte?</string>
+    <string name="evet">Ja</string>
+    <string name="hayir">Ingen</string>
+    <string name="yenile">Opdater</string>
+    <string name="noconnection">Ingen forbindelse</string>
+    <string name="cancel">Afbestille</string>
+    <string name="okey">Okey</string>
+    <string name="languages">Sprog</string>
+
+
+    <string name="not_ayarlar">Meddelelsesindstillinger</string>
+    <string name="notification">Notifikation</string>
+    <string name="vibrate">Vibrere</string>
+    <string name="share">Del</string>
+
+    <string name="photo_chooser">Photo Chooser</string>
+    <string name="download">Downloading af fil</string>
+
+</resources>
